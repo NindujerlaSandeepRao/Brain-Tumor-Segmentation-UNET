@@ -84,4 +84,4 @@ The following metrics were used to evaluate model performance:
 5. **Sprint 5**: Model deployment and documentation.
 
 ## Conclusion
-This project demonstrates the efficacy of the U-Net architecture in segmenting brain tumors from MRI scans. By automating the segmentation process, it enhances diagnostic accuracy and supports medical decision-making. Future directions could include:
+This project demonstrates the efficacy of the U-Net architecture in segmenting brain tumors from MRI scans. By automating the segmentation process, it enhances diagnostic accuracy and supports medical decision-making. 
