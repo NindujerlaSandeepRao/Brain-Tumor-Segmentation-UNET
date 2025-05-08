@@ -70,7 +70,7 @@ The following metrics were used to evaluate model performance:
 
 - **Dice Coefficient**
 - **Mean Intersection over Union (IoU)**
-- **Accuracy**: Achieved a validation accuracy of approximately 92%.
+- **Accuracy**: Achieved a validation accuracy of approximately 92 %.
 
   <img src="https://github.com/leovidith/Brain-Tumor-Segmentation-UNET/blob/master/Testing%20Image%20Strips%20-%20Set%202/img31.png">
   <img src="https://github.com/leovidith/Brain-Tumor-Segmentation-UNET/blob/master/Testing%20Image%20Strips%20-%20Set%202/img32.png">
